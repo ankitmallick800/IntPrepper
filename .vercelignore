@@ -10,3 +10,9 @@ data
 .env
 .env.*
 !.env.example
+/index.html
+/404.html
+/assets
+/favicon.svg
+/icons.svg
+/.nojekyll
