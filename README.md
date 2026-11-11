@@ -19,7 +19,7 @@ data/             SQLite database and uploads
 
 The API lives at `http://127.0.0.1:5000`. The Vite dev server proxies `/api` to it, so the browser talks to one origin.
 
-The published app is at [https://ankitmallick800.github.io/IntPrepper/](https://ankitmallick800.github.io/IntPrepper/). That site calls the API at [https://intprepper.vercel.app](https://intprepper.vercel.app).
+The live app is [https://intprepper.vercel.app](https://intprepper.vercel.app). That address serves the site and the API together.
 
 ## Run it
 
