@@ -1,3 +1,10 @@
+<img width="1834" height="926" alt="image" src="https://github.com/user-attachments/assets/959b2f99-7ba8-4180-863f-c4df62dd5bb6" />
+<img width="1835" height="976" alt="image" src="https://github.com/user-attachments/assets/4765725a-36a5-44c9-8ef7-2e7953224a65" />
+<img width="1832" height="973" alt="image" src="https://github.com/user-attachments/assets/2c251bcd-1d4e-44d4-8aae-06cfb1ef94e9" />
+<img width="1906" height="817" alt="image" src="https://github.com/user-attachments/assets/f1f75065-fb9c-4502-8cb4-f03468ae28a0" />
+
+
+
 # IntPrepper
 
 Practice interviews one question at a time. IntPrepper generates questions for a topic you choose, times each answer, transcribes spoken replies, and stores the score with feedback.
